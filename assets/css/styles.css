@@ -476,8 +476,8 @@ background-color:var(--bg-color);
   }
   .Projects h1{
  
-    text-align: center;
-    width: 20rem;
+     width: 20rem;
+    margin-left: 50px;
     
   }
   .wrap-project-details{

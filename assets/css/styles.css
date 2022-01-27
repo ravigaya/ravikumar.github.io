@@ -384,8 +384,8 @@ background-color:var(--bg-color);
  }
 
  .scroll-up{
-      position: sticky;
-      right: 0.5%;
+      position: relative;
+      left: 1%;
       bottom: 5%;
       cursor: pointer;
 }
